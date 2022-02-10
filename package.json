@@ -11,7 +11,7 @@
     "@mdi/font": "^3.6.95",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "reverse-geocoding": "^3.0.2",
     "roboto-fontface": "*",
     "vue": "^2.6.11",
